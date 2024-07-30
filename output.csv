@@ -1,0 +1,12 @@
+tag,count
+sv_tcp22_p2443,1
+sv_tcp3389_p7922,1
+untagged,2
+sv_udp22_p7654,1
+sv_udp3389_p5175,3
+Port,Protocol,Count
+22,tcp,1
+3389,tcp,1
+,,2
+22,udp,1
+3389,udp,3

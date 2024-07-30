@@ -1,0 +1,9 @@
+dstport,protocol,tag
+22,tcp,sv_tcp22_p2443
+3389,tcp,sv_tcp3389_p7922
+,,untagged
+,,untagged
+22,udp,sv_udp22_p7654
+3389,udp,sv_udp3389_p5175
+3389,udp,sv_udp3389_p5175
+3389,udp,sv_udp3389_p5175
